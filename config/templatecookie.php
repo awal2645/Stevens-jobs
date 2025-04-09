@@ -26,9 +26,9 @@ return [
     'paypal_mode' => 'live',
     'paypal_active' => true,
 
-    'stripe_key' => '',
-    'stripe_secret' => '',
-    'stripe_active' => false,
+    'stripe_key' => 'sk_test_51L6HN5KoKS0qHqyQpk3VwE8ZUleJgTupCT0vb0lKb8idiuLC1VsjifeaN6b5CCkH4XRvkefuVv9ua22hzn7qh9Te006tSIDXur',
+    'stripe_secret' => 'pk_test_51L6HN5KoKS0qHqyQkNxAN3ZmMPnbi33y8RESw5AG28ePFqD6me9q2EBcX7ZqmugYtnGXoxpgABnxrqXTCQUsVHPN00umrixX7c',
+    'stripe_active' => true,
 
     'razorpay_key' => '',
     'razorpay_secret' => '',
