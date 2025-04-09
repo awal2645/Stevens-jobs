@@ -5,7 +5,6 @@
 /storage/app/*
 /storage/*.key
 /storage/debugbar
-/vendor
 /uploads
 .env
 .env.backup
