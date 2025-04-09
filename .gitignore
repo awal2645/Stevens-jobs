@@ -32,7 +32,8 @@ tests/database/app.sql
 tests/database/testing.sql
 /candidate
 yarn.lock
+
 .vscode/
 .idea/
 .phpunit.result.cache
-composer.lock
+
